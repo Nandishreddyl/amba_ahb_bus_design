@@ -25,3 +25,4 @@ The waveform verifies correct burst write and read operations with proper data t
 ## 👨‍💻 Author
 
 Nandish Reddy
+<img width="2116" height="1692" alt="image" src="https://github.com/user-attachments/assets/d6c0dd88-6dc1-4e25-91fc-852865511b32" />
